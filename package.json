@@ -5,9 +5,9 @@
   "main": "index.js",
   "bin": "cli.js",
   "dependencies": {
-    "async": "~0.2.9",
-    "htmlparser2": "~3.4.0",
-    "httpinvoke": "~1.1.3"
+    "async": "0.2.x",
+    "htmlparser2": "3.5.x",
+    "httpinvoke": "1.1.x"
   },
   "devDependencies": {},
   "scripts": {

@@ -26,10 +26,8 @@
     "backup",
     "web"
   ],
-  "author": "Vytautas Jakutis <vytautas@jakut.is>",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/jakutis/albumkit/issues"
-  },
-  "homepage": "https://github.com/jakutis/albumkit"
+  "author": "Vytautas Jakutis <vytautas@jakut.is> (https://jakut.is/)",
+  "bugs": "https://github.com/jakutis/albumkit/issues",
+  "homepage": "https://www.npmjs.org/package/albumkit"
 }
